@@ -3,7 +3,7 @@ import random
 import matplotlib.pyplot as plt
 import time
 
-from question1.mutation2.chromosome import chromosome
+from chromosome import chromosome
 
 
 class ES:
