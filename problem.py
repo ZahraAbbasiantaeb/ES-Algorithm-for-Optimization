@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from question1.mutation2.ES_Algorithm import ES
+from ES_Algorithm import ES
 
 child = [50,100,200,300,400,500,600]
 
